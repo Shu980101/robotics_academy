@@ -1,0 +1,38 @@
+[0.493s] Invoking command in '/home/shu/robotics_academy/ros2_ws/src/publisher_subscriber_nodes': PYTHONPATH=/home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_subscriber_nodes build --build-base /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build install --record /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/install.log --single-version-externally-managed install_data
+[0.572s] /home/shu/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+[0.572s]   warnings.warn(msg)
+[0.619s] running egg_info
+[0.627s] creating ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info
+[0.627s] writing ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/PKG-INFO
+[0.627s] writing dependency_links to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/dependency_links.txt
+[0.627s] writing entry points to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/entry_points.txt
+[0.627s] writing requirements to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/requires.txt
+[0.627s] writing top-level names to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/top_level.txt
+[0.627s] writing manifest file '../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/SOURCES.txt'
+[0.643s] reading manifest file '../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/SOURCES.txt'
+[0.644s] writing manifest file '../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/SOURCES.txt'
+[0.644s] running build
+[0.644s] running build_py
+[0.644s] creating /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes
+[0.644s] copying publisher_subscriber_nodes/subcriber.py -> /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes
+[0.644s] copying publisher_subscriber_nodes/__init__.py -> /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes
+[0.644s] copying publisher_subscriber_nodes/publisher.py -> /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes
+[0.644s] running install
+[0.646s] running install_lib
+[0.654s] creating /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes
+[0.654s] copying /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes/subcriber.py -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes
+[0.654s] copying /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes/__init__.py -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes
+[0.654s] copying /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes/publisher.py -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes
+[0.654s] byte-compiling /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes/subcriber.py to subcriber.cpython-310.pyc
+[0.654s] byte-compiling /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes/__init__.py to __init__.cpython-310.pyc
+[0.655s] byte-compiling /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes/publisher.py to publisher.cpython-310.pyc
+[0.655s] running install_data
+[0.655s] creating /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/share/ament_index/resource_index/packages
+[0.655s] copying resource/publisher_subscriber_nodes -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/share/ament_index/resource_index/packages
+[0.655s] copying package.xml -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/share/publisher_subscriber_nodes
+[0.655s] running install_egg_info
+[0.663s] Copying ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info to /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes-0.0.0-py3.10.egg-info
+[0.663s] running install_scripts
+[0.727s] Installing publisher script to /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/publisher_subscriber_nodes
+[0.727s] writing list of installed files to '/home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/install.log'
+[0.738s] Invoked command in '/home/shu/robotics_academy/ros2_ws/src/publisher_subscriber_nodes' returned '0': PYTHONPATH=/home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_subscriber_nodes build --build-base /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build install --record /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/install.log --single-version-externally-managed install_data

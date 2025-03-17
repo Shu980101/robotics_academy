@@ -1,0 +1,31 @@
+[0.407s] Invoking command in '/home/shu/robotics_academy/ros2_ws/src/publisher_subscriber_nodes': PYTHONPATH=/home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_subscriber_nodes build --build-base /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build install --record /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/install.log --single-version-externally-managed install_data
+[0.484s] /home/shu/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+[0.484s]   warnings.warn(msg)
+[0.529s] running egg_info
+[0.537s] writing ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/PKG-INFO
+[0.537s] writing dependency_links to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/dependency_links.txt
+[0.537s] writing entry points to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/entry_points.txt
+[0.537s] writing requirements to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/requires.txt
+[0.537s] writing top-level names to ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/top_level.txt
+[0.553s] reading manifest file '../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/SOURCES.txt'
+[0.553s] writing manifest file '../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info/SOURCES.txt'
+[0.553s] running build
+[0.553s] running build_py
+[0.553s] copying publisher_subscriber_nodes/__init__.py -> /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes
+[0.553s] copying publisher_subscriber_nodes/subscriber.py -> /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes
+[0.553s] copying publisher_subscriber_nodes/publisher.py -> /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes
+[0.554s] running install
+[0.556s] running install_lib
+[0.563s] copying /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build/lib/publisher_subscriber_nodes/publisher.py -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes
+[0.564s] byte-compiling /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes/publisher.py to publisher.cpython-310.pyc
+[0.564s] running install_data
+[0.564s] copying resource/publisher_subscriber_nodes -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/share/ament_index/resource_index/packages
+[0.564s] copying package.xml -> /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/share/publisher_subscriber_nodes
+[0.564s] running install_egg_info
+[0.572s] removing '/home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes-0.0.0-py3.10.egg-info' (and everything under it)
+[0.572s] Copying ../../build/publisher_subscriber_nodes/publisher_subscriber_nodes.egg-info to /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages/publisher_subscriber_nodes-0.0.0-py3.10.egg-info
+[0.573s] running install_scripts
+[0.634s] Installing publisher script to /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/publisher_subscriber_nodes
+[0.634s] Installing subscriber script to /home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/publisher_subscriber_nodes
+[0.634s] writing list of installed files to '/home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/install.log'
+[0.646s] Invoked command in '/home/shu/robotics_academy/ros2_ws/src/publisher_subscriber_nodes' returned '0': PYTHONPATH=/home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shu/robotics_academy/ros2_ws/install/publisher_subscriber_nodes/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/publisher_subscriber_nodes build --build-base /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/build install --record /home/shu/robotics_academy/ros2_ws/build/publisher_subscriber_nodes/install.log --single-version-externally-managed install_data

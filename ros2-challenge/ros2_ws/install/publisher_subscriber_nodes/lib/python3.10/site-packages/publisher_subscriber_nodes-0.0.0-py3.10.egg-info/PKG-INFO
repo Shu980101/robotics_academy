@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: publisher_subscriber_nodes
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: shu
+Maintainer-email: shu.xiao@students.iaac.net
+License: TODO: License declaration
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary
