@@ -1,6 +1,8 @@
 # robotics-academy-challenge
 Complete a lap following the line painted on the racing circuit.
 
+[Example_video](https://youtu.be/WiYAQdS_WJA)
+
 ### Installation
 
 This is a breif introduction of installation, full installation refers to this [LINK](https://jderobot.github.io/RoboticsAcademy/user_guide/).
