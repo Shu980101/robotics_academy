@@ -1,6 +1,8 @@
 # ROS2-challenge
-In this part, the example will show how to launch a robot and navigate in gazebo environment.//
+In this part, the example will show how to launch a robot and navigate in gazebo environment.
+
 [Example_video](https://youtu.be/2Wvg0Y5iKvc)
+
 ### Environment
 
 ROS2: Humble
