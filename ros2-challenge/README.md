@@ -28,7 +28,6 @@ Inside the ros2_ws:
 ````
 cd src/
 ros2 pkg create publisher_subscriber_nodes --build-type ament_python --dependencies rclpy
-
 ````
 
 #### Step 3 - Create nodes:
@@ -66,14 +65,12 @@ Ubuntu 22.04 with ROS 2 Humble
 
 ````
 sudo apt install ros-humble-turtlebot4-simulator ros-humble-irobot-create-nodes
-
 ````
 
 #### Step 2 - Install Dev Tools
 
 ````
 sudo apt install ros-dev-tools
-
 ````
 
 
@@ -84,7 +81,6 @@ sudo apt-get update && sudo apt-get install wget
 sudo sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable `lsb_release -cs` main" > /etc/apt/sources.list.d/gazebo-stable.list'
 wget http://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
 sudo apt-get update && sudo apt-get install ignition-fortress
-
 ````
 
 
@@ -92,7 +88,6 @@ sudo apt-get update && sudo apt-get install ignition-fortress
 
 ````
 ros2 launch turtlebot4_ignition_bringup turtlebot4_ignition.launch.py slam:=true nav2:=true rviz:=true
-
 ````
 
 ### Part 2 - a
@@ -110,5 +105,15 @@ ros2 launch turtlebot4_ignition_bringup turtlebot4_ignition.launch.py slam:=true
 2. In Rviz, click waypoint/Nav Through Poses Mode at bottom left, and use Nav2 Goal on the top to define where you want the turtlebot4 to go.
 
 3. Click Start Nav Through Poses at the bottom left to start.
+
+## Reference
+
+[ROS2 Installation](https://docs.ros.org/en/humble/Installation.html)
+[Nav2 Installation](https://docs.nav2.org/getting_started/index.html#installation)
+[Turtlebot4 Installation](https://turtlebot.github.io/turtlebot4-user-manual/software/turtlebot4_simulator.html)
+
+
+
+
 
 
