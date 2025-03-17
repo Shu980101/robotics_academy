@@ -1,4 +1,4 @@
-## robotics-academy-challenge
+# robotics-academy-challenge
 Complete a lap following the line painted on the racing circuit.
 
 ### Installation
