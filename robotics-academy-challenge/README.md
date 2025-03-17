@@ -3,7 +3,7 @@ Complete a lap following the line painted on the racing circuit.
 
 ### Installation
 
-This is a breif introduction of installation, full installation refers to this [LINK](https://jderobot.github.io/RoboticsAcademy/user_guide/)
+This is a breif introduction of installation, full installation refers to this [LINK](https://jderobot.github.io/RoboticsAcademy/user_guide/).
 
 
 #### Step 1 - Pull images
