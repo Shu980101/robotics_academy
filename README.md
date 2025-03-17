@@ -1,2 +1,9 @@
 # robotics_academy
 This is the repo for RoboticsAcademy Challenge 2025.
+
+
+|     |                       Challenges                       |                            Keywords                             |  Description                                                                                                                |                                                         Link                                                          |
+| :-: | :---------------------------------------------------: | :--------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
+| 01  |          [Part1_RoboticsAcademy Challenge]            |       Computational Vision, PID Control, Autonomous Moving       |                               Complete a lap following the line painted on the racing circuit.                               | [VIDEO_LINK](https://youtu.be/WiYAQdS_WJA)                           |
+| 02  |           [Part2_Python Challenge]                    |            Brownian Motion, Python                               |                  Implement and simulate Brownian Motion type behavior in Python 3.                                           |  [VIDEO_LINK](https://youtu.be/NE5Bl1PYkgo)                                        |
+| 03  |            [Part3_ROS2 Challenge]                     |               ROS2, Rviz2, Navigation2, Turtlebot4               |             In this part, the example will show how to launch a robot and navigate in gazebo environment.                    |    [VIDEO_LINK](https://youtu.be/2Wvg0Y5iKvc)                                                     |
