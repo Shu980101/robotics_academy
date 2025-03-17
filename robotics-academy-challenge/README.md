@@ -3,7 +3,7 @@ Complete a lap following the line painted on the racing circuit.
 
 ### Installation
 
-This is a breif introduction of installation, full installation refers to this [LINK] (https://jderobot.github.io/RoboticsAcademy/user_guide/)
+This is a breif introduction of installation, full installation refers to this [LINK](https://jderobot.github.io/RoboticsAcademy/user_guide/)
 
 
 #### Step 1 - Pull images
@@ -43,5 +43,5 @@ docker run --rm -it $(nvidia-smi >/dev/null 2>&1 && echo "--gpus all" || echo ""
 
 3. Wait until the exercise is fully loaded. You know it is fully loaded when the Robotics Backend, World and Visualization state boxes are green.
 
-4. This repo provide one of the solution for the FOLLOW LINE exercise, you can use the LOADFILE option at the top left corner to load the script in the scripts folder to check the result.
+4. This repo provide one of the solution for the [FOLLOW LINE](https://jderobot.github.io/RoboticsAcademy/exercises/AutonomousCars/follow_line/) exercise, you can use the LOADFILE option at the top left corner to load the script in the scripts folder to check the result.
 
