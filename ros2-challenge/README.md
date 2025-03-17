@@ -6,6 +6,7 @@ In this part, the example will show how to launch a robot and navigate in gazebo
 ### Environment
 
 ROS2: Humble
+
 Ubuntu: 22.04
 
 ### Installation
